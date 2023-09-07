@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "668ecc080b220546",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26935d6f712c1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea4642f3b27dc03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baking/Bread/Doughs/Basic sweet bread dough.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b21b5d5bf1181b64",
+    "type": "split",
+    "children": [
+      {
+        "id": "932297433bd0a4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b0390f0028b349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba116304f7625c87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcb12398031a2c96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fd58fb36b4389b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e35f20b5313baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee97db8015df4740",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Baking/Bread/Doughs/Basic sweet bread dough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8afa1be417b7801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Baking/Bread/Doughs/Basic sweet bread dough.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4361df96061f09d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e2a28b0b22d62c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Baking/Bread/Doughs/Basic sweet bread dough.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ea4642f3b27dc03",
+  "lastOpenFiles": [
+    "Baking/Bread/Korean hotdog bread.md",
+    "images/Pasted image 20230907165143.png",
+    "images",
+    "Pasted image 20230907165241.png",
+    "Baking/Bread/Doughs/Basic sweet bread dough.md",
+    "Untitled.canvas",
+    "Baking/Sweets/Fudgie brownies.md",
+    "Baking/Bread/Doughs",
+    "Baking/Bread",
+    "Baking/Sweets",
+    "Baking"
+  ]
+}
