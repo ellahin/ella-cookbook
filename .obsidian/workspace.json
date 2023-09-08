@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "043e9f6d3dbf15ee",
+        "id": "826730b7a7db51f7",
         "type": "tabs",
         "children": [
           {
-            "id": "46204ed77fad394a",
+            "id": "54fd2da1038f8878",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Baking/Bread/Korean hotdog bread.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Baking/Bread/Korean hotdog bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Baking/Bread/Korean hotdog bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Baking/Bread/Korean hotdog bread.md"
+              }
             }
           }
         ]
@@ -138,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46204ed77fad394a",
+  "active": "54fd2da1038f8878",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Baking/Sweets/Fudgie brownies.md",
-    "Baking/Bread/Korean hotdog bread.md",
     "Baking/Bread/Doughs/Basic sweet bread dough.md",
+    "Baking/Bread/Korean hotdog bread.md",
+    "Baking/Sweets/Fudgie brownies.md",
+    "ReadMe.md",
     "images/Pasted image 20230907165143.png",
     "images",
     "Pasted image 20230907165241.png",
