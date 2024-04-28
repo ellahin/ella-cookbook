@@ -23,4 +23,4 @@ From Binging with Babish.
 2. In a large bowl, combine the white sugar, melted butter, espresso powder, and vanilla extract, 4 eggs, and 2 egg yolks. Whisk to combine. 
 3. Add cocoa powder, vegetable oil, and chopped chocolate. Whisk to combine.
 4. In a separate bowl, combine bread flour, salt, and baking powder. Add to the rest of the ingredients and stir to combine. Don’t worry about overmixing.
-1. Pour batter into prepared pan. Bake at 350°F for 25-35 minutes, or until your desired doneness has been achieved.
+1. Pour batter into prepared pan. Bake at 180°C for 25-35 minutes, or until your desired doneness has been achieved.
