@@ -11,8 +11,12 @@
             "id": "f756b3814582ecb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Baking/Sweets/Fudgie brownies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Baking/Sweets/Fudgie brownies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Baking/Sweets/Fudgie brownies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Baking/Sweets/Fudgie brownies.md"
+              }
             }
           },
           {
@@ -160,9 +168,9 @@
   },
   "active": "f756b3814582ecb5",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Baking/Sweets/Fudgie brownies.md",
     "Baking/Bread/Korean hotdog bread.md",
+    "Baking/Sweets/Fudgie brownies.md",
+    "ReadMe.md",
     "Baking/Bread/Doughs/Basic sweet bread dough.md",
     "images/Pasted image 20230907165143.png",
     "images",
