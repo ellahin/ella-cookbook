@@ -1,7 +1,7 @@
 #sweets #brownies #baking #chocolate 
 # About
 From Binging with Babish.
-
+Normally double the recipe.
 # Recipe 
 
 ## Ingredients 
@@ -14,7 +14,7 @@ From Binging with Babish.
 - 1 cup cocoa powder
 - ½ cup vegetable oil
 - 1 !!!!tsp baking powder
-- 1 !!!!tsp kosher salt
+- 1.5 !!!!tsp salt
 - 1 Block bittersweet chocolate, chopped
 - 1 ½ cups bread flour
 ## Steps
