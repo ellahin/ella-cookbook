@@ -13,6 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "plausible",
+      host: "plausible.ellahin.com"
     },
     locale: "en-US",
     baseUrl: "cookbook.ellahin.com",
